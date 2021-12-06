@@ -82,3 +82,7 @@ El programa fue realizado en la aplicación NetBeans con lenguaje Java
 java version "1.8.0_311"
 Java(TM) SE Runtime Environment (build 1.8.0_311-b11)
 Java HotSpot(TM) 64-Bit Server VM (build 25.311-b11, mixed mode)
+
+https://mvnrepository.com/artifact/org.json/json/20210307
+https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.13.0
+https://mvnrepository.com/artifact/com.google.code.gson/gson/2.8.9
